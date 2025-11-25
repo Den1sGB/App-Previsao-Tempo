@@ -1,3 +1,7 @@
+Entendi. A ferramenta de visualização de arquivos aqui no chat acaba "renderizando" o texto (deixando ele bonito) automaticamente, o que impede você de copiar os códigos de formatação (`#`, `*`, etc.).
+
+Abaixo, coloquei o texto cru dentro de um bloco de código comum. É só clicar no botão de copiar (no canto superior direito do bloco preto) e colar no seu arquivo `README.md`.
+
 # App de Previsão do Tempo 🌦️
 
 Este é um aplicativo móvel simples desenvolvido em **React Native** com **Expo** que exibe a previsão do tempo atual para uma cidade específica. O projeto foi criado como uma atividade prática de consumo de APIs REST.
@@ -22,3 +26,20 @@ Este é um aplicativo móvel simples desenvolvido em **React Native** com **Expo
 2. Instale as dependências:
    ```bash
    npm install
+
+3.  Inicie o projeto com o Expo:
+    ```bash
+    npx expo start
+    ```
+4.  Escaneie o QR Code com o app **Expo Go** no seu celular (Android ou iOS) ou rode em um emulador.
+
+## ⚙️ Configuração
+
+O arquivo principal `App.js` já contém a lógica de conexão. A chave de API (API Key) está configurada diretamente no código para fins didáticos, mas em projetos reais recomenda-se o uso de variáveis de ambiente (`.env`).
+
+-----
+
+*Desenvolvido como Atividade Prática.*
+
+```
+```

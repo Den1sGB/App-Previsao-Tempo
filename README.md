@@ -37,5 +37,3 @@ O arquivo principal `App.js` já contém a lógica de conexão. A chave de API (
 
 *Desenvolvido como Atividade Prática.*
 
-```
-```

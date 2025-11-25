@@ -1,7 +1,3 @@
-Entendi. A ferramenta de visualização de arquivos aqui no chat acaba "renderizando" o texto (deixando ele bonito) automaticamente, o que impede você de copiar os códigos de formatação (`#`, `*`, etc.).
-
-Abaixo, coloquei o texto cru dentro de um bloco de código comum. É só clicar no botão de copiar (no canto superior direito do bloco preto) e colar no seu arquivo `README.md`.
-
 # App de Previsão do Tempo 🌦️
 
 Este é um aplicativo móvel simples desenvolvido em **React Native** com **Expo** que exibe a previsão do tempo atual para uma cidade específica. O projeto foi criado como uma atividade prática de consumo de APIs REST.
